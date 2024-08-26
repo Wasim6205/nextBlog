@@ -3,7 +3,8 @@ const nextConfig = {
     images:{
         domains:[
             "images.pexels.com",
-            "cdn.pixabay.com"
+            "cdn.pixabay.com",
+            "media.istockphoto.com"
         ]
     }
 };
